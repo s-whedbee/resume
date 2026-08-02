@@ -18,7 +18,7 @@ Python, TypeScript, JavaScript, C#, .NET, Java, Angular, Vue, AWS, Serverles, Cl
 **Senior Software Architect**  
 2020 - Present  
 [Info Tech Operating, LLC, DBA Infotech](https://infotechinc.com)  
-Gainesville, Fl
+Gainesville, FL
 
 
 * [AASHTOWare Project](https://www.aashtowareproject.org) is used by most of the U.S. state DOT's (Departments of Transportation) to manage their road and bridge construction projects.  I did software development work on various projects, proof-of-concepts, feature enhancements, bug fixes, and site issues.  I did architecture work for modernization and re-platforming.  I did security reviews for SOC 2 and GovRamp audits.  
